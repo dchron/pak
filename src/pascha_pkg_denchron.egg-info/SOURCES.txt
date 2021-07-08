@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+src/pascha/__init__.py
+src/pascha/greek.py
+src/pascha/test.py
+src/pascha_pkg_denchron.egg-info/PKG-INFO
+src/pascha_pkg_denchron.egg-info/SOURCES.txt
+src/pascha_pkg_denchron.egg-info/dependency_links.txt
+src/pascha_pkg_denchron.egg-info/top_level.txt
